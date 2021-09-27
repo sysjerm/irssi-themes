@@ -14,5 +14,5 @@ screenshots are user-contributed. they contain a lot of information which is not
 several themes have translated all irssi messages into the author's language, however, you are able to edit those themes yourself.
 
 
-<br /><br /><br />
+<br /><br />
 <B>original link</B>: <a href="https://irssi-import.github.io/themes/">irssi themes</a>
